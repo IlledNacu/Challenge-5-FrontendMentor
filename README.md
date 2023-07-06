@@ -26,8 +26,8 @@ This is a solution to the [Stats preview card component](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [Solution Repository]()
-- Live Site: [Live Site]()
+- Solution URL: [Solution Repository](https://github.com/IlledNacu/Challenge-5-FrontendMentor)
+- Live Site: [Live Site](https://illednacu.github.io/Challenge-5-FrontendMentor/)
 
 
 ### Built with
